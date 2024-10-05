@@ -6,8 +6,7 @@ int main(){
     printf("eneter: ");
     gets(str);
 
-   
-   
+    
    
    for (int i = 0; i < 100; i++)
    {
@@ -22,8 +21,6 @@ int main(){
    }
    printf("%d",p);
 
-   
-   
-
+      
     return 0;
 }
